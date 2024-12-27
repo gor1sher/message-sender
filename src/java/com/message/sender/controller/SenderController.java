@@ -1,6 +1,5 @@
 package com.message.sender.controller;
 
-import com.message.sender.model.ResponseData;
 import com.message.sender.service.NotifierService;
 import com.message.sender.service.RabbitService;
 import lombok.RequiredArgsConstructor;
